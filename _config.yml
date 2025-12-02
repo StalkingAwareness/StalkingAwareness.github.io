@@ -3,9 +3,5 @@ description: "My Minimal Mistakes site"
 theme: null
 remote_theme: "mistakes/minimal-mistakes"
 
-markdown: kramdown
-
 plugins:
   - jekyll-include-cache
-includes:
-  - _pages
