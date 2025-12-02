@@ -1,7 +1,7 @@
 title: "Stalking Awareness"
 description: "My Minimal Mistakes site"
 theme: null
-remote_theme: "mistakes/minimal-mistakes"
+remote_theme: "mmistakes/minimal-mistakes"
 
 plugins:
   - jekyll-include-cache
