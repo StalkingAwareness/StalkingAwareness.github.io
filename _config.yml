@@ -7,7 +7,3 @@ plugins:
   - jekyll-include-cache
 
   markdown: kramdown
-
-  /_includes
-  /_layouts
-  /assets
