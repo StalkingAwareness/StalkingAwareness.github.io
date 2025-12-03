@@ -1,57 +1,33 @@
-﻿
-/* Apply box-sizing to all elements */
-* {
-  box-sizing: border-box;
-}
-body {
-  margin-top: 60px;
-}
-/* Style the body */
+﻿* { box-sizing: border-box; }
+
 body {
   margin: 0;
+  margin-top: 60px;
   font-family: Arial, Helvetica, sans-serif;
 }
 
-/* Horizontal navigation bar */
 .navbar {
-  overflow: hidden;
-  background-color: #111;
   position: fixed;
   top: 0;
   width: 100%;
-  z-index: 1;
   display: flex;
+  background: #111;
+  padding: 10px 0;
 }
 
-/* Links inside the navbar */
 .navbar a {
   color: white;
-  padding: 16px 20px;
   text-decoration: none;
-  display: block;
+  padding: 16px 20px;
 }
 
-/* Hover effect */
 .navbar a:hover {
-  background-color: #ddd;
+  background: #ddd;
   color: black;
 }
 
-/* Main content */
-.content {
-  margin-top: 60px;  /* Space for the fixed navbar */
-  padding: 20px;
-}
-
 #intro {
-background-image: url("images/background01.jpg");
-  background-size: cover;
-  background-repeat: no-repeat;
-  padding: 100px 20px;}
-#about{
-background-color: bisque;
+  background: url("images/background01.jpg") center/cover no-repeat;
+  padding: 100px 20px;
+  color: #000;
 }
-#contact{
-background-color: blanchedalmond;
-}
-
