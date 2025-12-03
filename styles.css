@@ -1,3 +1,4 @@
+﻿
 /* Apply box-sizing to all elements */
 * {
   box-sizing: border-box;
@@ -39,3 +40,15 @@ body {
   margin-top: 60px;  /* Space for the fixed navbar */
   padding: 20px;
 }
+
+#intro {
+background-image: url(images/background01.jpg);
+background-repeat: round;
+}
+#about{
+background-color: bisque;
+}
+#contact{
+background-color: blanchedalmond;
+}
+
