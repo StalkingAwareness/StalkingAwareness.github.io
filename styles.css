@@ -45,8 +45,9 @@ body {
 
 #intro {
 background-image: url("images/background01.jpg");
-background-repeat: round;
-}
+  background-size: cover;
+  background-repeat: no-repeat;
+  padding: 100px 20px;}
 #about{
 background-color: bisque;
 }
