@@ -44,7 +44,7 @@ body {
 }
 
 #intro {
-background-image: url(background01.jpg);
+background-image: url("images/background01.jpg");
 background-repeat: round;
 }
 #about{
