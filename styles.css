@@ -30,24 +30,26 @@ justify-content: center;
 align-items: center;
 }
 
-.container {
-	max-width:960px;
-	margin: 0 auto;
-	padding: 20px;
-	border: 1px solid black
+.center-text {
+	text-align: center;
 }
 
-.Container img{
+.container {
+	max-width:1000px;
+	margin: 0 auto;
+	padding: 20px;
+	border: 0px solid black
+}
+.container img{
 height: 300px;
 border-radius: 50%;
 }
-
-.Container h2{
+.container h2{
 margin-top: 2%;
 font-size: 3em;
 font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
-.Container p, ul{
+.container p, ul{
 margin-top: 2%;
 font-size: 1.5rem;
 }
@@ -69,13 +71,13 @@ font-size: 1rem;
 }
 
 .navbar a {
-  color: white;
+  color: gray;
   text-decoration: none;
   padding: 16px 20px;
 }
 
 .navbar a:hover {
-  background: #ddd;
+  background: gray;
   color: black;
 }
 
