@@ -57,7 +57,8 @@ font-size: 1.5rem;
 .content-wrapper {
 	background-color: white;
 	width: 80%;
-	margin: 20px;
+	margin: 0 auto;
+	padding: 20px;
 	box-shadow:0 0 10px rgba(0, 0, 0, 0.1);
 }
 
@@ -86,6 +87,10 @@ font-size: 1rem;
 .navbar a:hover {
   background: gray;
   color: black;
+}
+
+p {
+	margin-bottom: 25px;
 }
 
 .top-text {
