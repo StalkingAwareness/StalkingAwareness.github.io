@@ -1,5 +1,5 @@
 ﻿body {
-  padding-top: 0px;
+  padding-top: 0;
 }
 *{
 padding: 0;
@@ -81,24 +81,6 @@ h1 {
 	margin-bottom: 35px;
 }
 
-header{
-height: 45px;
-}
-header nav ul{
-display: flex;
-margin-left: 70%;
-list-style: none;
-}
-
-header nav ul li{
-padding-left: 10%;
-}
-
-header a{
-text-decoration: none;
-color: brown;
-}
-
 section{
 height: 100vh;
 border: 0px solid grey;
@@ -106,7 +88,6 @@ display: flex;
 justify-content: center;
 align-items: center;
 }
-
 
 footer {
 line-height: 40px;
