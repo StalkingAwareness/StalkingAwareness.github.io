@@ -24,7 +24,7 @@ color: brown;
 
 section{
 height: 100vh;
-border: 1px solid grey;
+border: 0px solid grey;
 display: flex;
 justify-content: center;
 align-items: center;
@@ -88,7 +88,7 @@ font-size: 1rem;
 }
 
 #intro {
-background-image: url(images/background03.jpg);
+background-image: url(images/background04.jpg);
 background-repeat: repeat;
 }
 #about{
