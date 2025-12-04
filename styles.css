@@ -54,6 +54,13 @@ margin-top: 2%;
 font-size: 1.5rem;
 }
 
+.content-wrapper {
+	background-color: white;
+	width: 80%;
+	margin: 20px;
+	box-shadow:0 0 10px rgba(0, 0, 0, 0.1);
+}
+
 footer {
 line-height: 40px;
 display: flex;
