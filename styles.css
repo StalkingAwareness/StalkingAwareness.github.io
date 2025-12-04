@@ -81,6 +81,11 @@ font-size: 1rem;
   color: black;
 }
 
+.top-text {
+	margin-top: 0;
+	padding-top: 0;
+	vertical-align: top;
+}
 
 #intro {
 background-image: url(images/background02.jpg);
