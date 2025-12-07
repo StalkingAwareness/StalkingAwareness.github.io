@@ -38,6 +38,14 @@ html {
   color: black;
 }
 
+.paper {
+	background-color: white;
+	width: 800px;
+	margin: 40px auto;
+	padding: 30px;
+	border-radius: 8px;
+	box-shadow: 0 0 15px rgba(0,0,0,0.2);
+}
 .center-text {
 	text-align: center;
 }
