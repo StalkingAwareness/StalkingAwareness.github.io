@@ -42,8 +42,8 @@ html {
 	background-color: white;
 	width: 800px;
 	margin: 40px auto;
-	padding: 30px;
-	border-radius: 8px;
+	padding: 0px;
+	border-radius: 0px;
 	box-shadow: 0 0 15px rgba(0,0,0,0.2);
 }
 .center-text {
@@ -106,17 +106,4 @@ p {
 	margin-top: 0;
 	padding-top: 0;
 	vertical-align: top;
-}
-
-#about{
-background-color: #FFE4C4;
-}
-#whoisstalked{
-background-color: #FFE4C4;
-}
-#contact{
-background-color: #EFDECD;
-}
-#therejected{
-background-color: green;
 }
