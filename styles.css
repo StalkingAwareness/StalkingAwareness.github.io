@@ -1,6 +1,7 @@
 ﻿body {
   padding-top: 60px;
-  	background-color: #FFE4C4;
+  	background-color: #152238;
+  	/*#FFE4C4;*/
 }
 *{
 padding: 0;
@@ -81,7 +82,7 @@ font-size: 1.5rem;
 }
 
 .content-wrapper {
-	background-color: white;
+	background-color: #FAFAFA;
 	width: 70%;
 	min-height: 100vh;
 	margin: 0 auto;
