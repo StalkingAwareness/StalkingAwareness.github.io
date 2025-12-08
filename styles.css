@@ -52,11 +52,19 @@ html {
 }
 
 .container {
+	display: flex;
+	gap: 40px;
+}
+.column {
+	flex: 1;
+	min-width: 200px;
+}
+/*.container {
 	max-width:1000px;
 	margin: 0 auto;
 	padding: 20px;
 	border: 0px solid black
-}
+}*/
 .container img{
 height: 300px;
 border-radius: 50%;
