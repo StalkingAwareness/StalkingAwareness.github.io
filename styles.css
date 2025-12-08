@@ -30,8 +30,9 @@ html {
     height: 16px;
 }   
 .navbar {
-  position: fixed;
+  position: sticky;
   /*top: 0;*/
+  display:inline-block;
   text-align: center;
   width: 65%%;
   display: flex;
