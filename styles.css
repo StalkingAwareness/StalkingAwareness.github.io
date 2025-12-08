@@ -65,6 +65,7 @@ html {
 	padding: 20px;
 	border: 0px solid black
 }*/
+
 .container img{
 height: 300px;
 border-radius: 50%;
@@ -90,6 +91,10 @@ font-size: 1.5rem;
 
 h1 {
 	margin-bottom: 35px;
+}
+
+ul {
+	font-size: 16px;
 }
 
 section{
