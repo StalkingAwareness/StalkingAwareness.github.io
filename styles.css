@@ -40,14 +40,6 @@ html {
   color: black;
 }
 
-.paper {
-	background-color: white;
-	width: 800px;
-	margin: 40px auto;
-	padding: 0px;
-	border-radius: 0px;
-	box-shadow: 0 0 15px rgba(0,0,0,0.2);
-}
 .center-text {
 	text-align: center;
 }
@@ -83,7 +75,7 @@ font-size: 1.5rem;
 
 .content-wrapper {
 	background-color: #FAFAFA;
-	width: 70%;
+	width: 60%;
 	min-height: 100vh;
 	margin: 0 auto;
 	margin-top: 0%;
