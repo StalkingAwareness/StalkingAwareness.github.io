@@ -1,5 +1,5 @@
 ﻿body {
-  padding-top: 60px;
+  padding-top: 120px;
   	background-image: url(images/background07.jpg);
   	/*#FFE4C4;*/
 }
@@ -20,7 +20,7 @@ color: brown;
 html {
 	scroll-behavior: smooth;
 }
-#site-name {
+.site-name {
     font-size: 40px;
     color: #f6f4f2;
     text-shadow: -0.03em -0.03em #000;
@@ -84,7 +84,7 @@ font-size: 1.5rem;
 	min-height: 100vh;
 	margin: 0 auto;
 	margin-top: 0%;
-	padding: 60px;
+	padding: 120px;
 	box-shadow:0 0 10px rgba(25, 31, 52, 0.6);
 }
 
