@@ -22,7 +22,8 @@ html {
 }
 .navbar {
   position: fixed;
-  top: 0;
+  /*top: 0;*/
+  text-align: center;
   width: 100%;
   display: flex;
   background: #111;
@@ -80,7 +81,7 @@ font-size: 1.5rem;
 
 h1 {
 	margin-bottom: 35px;
-	font-family:"Sans Serif Collection";
+	font-family:"Times New Roman", Times, serif;
 }
 
 ul {
