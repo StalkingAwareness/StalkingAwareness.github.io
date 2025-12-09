@@ -32,7 +32,7 @@ html {
     text-shadow: -0.03em -0.03em #000;
     font-family: Helvetica, sans-serif;
     font-weight: normal;
-    padding: 30px;
+    padding: 20px;
     background-image: url(images/background08.jpg);
     background-size: cover;
     background-repeat: no-repeat;
@@ -136,8 +136,8 @@ p {
 	border: 2px solid #333;
 	padding: 20px;
 	margin-bottom: 20px;
-	max-width: 50px;
-	background-color: #D3D3D3 !important;
+	max-width: 500px;
+	background-color: #FEFFEC!important;
 }
 
 
