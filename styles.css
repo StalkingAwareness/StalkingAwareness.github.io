@@ -34,6 +34,8 @@ html {
     font-weight: normal;
     padding: 30px;
     background-image: url(images/background08.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
 } 
 
 .content-wrapper {
