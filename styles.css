@@ -34,11 +34,15 @@ html {
   top: 0;
   text-align: center;
   width: 65%;
+  margin: 0 auto;
+  left: 0;
+  right: 0;
+  
   display: flex;
   justify-content: center;
   background: #111;
   padding: 10px 0;
-  margin: 0 auto;
+  z-index: 9999;
 }
 
 .navbar a {
@@ -85,9 +89,9 @@ font-size: 1.5rem;
 	width: 65%;
 	min-height: 100vh;
 	margin: 0 auto;
-	margin-top: 0%;
 	padding: 120px;
 	box-shadow:0 0 10px rgba(25, 31, 52, 0.6);
+	margin-top: 70px;
 }
 
 h1 {
