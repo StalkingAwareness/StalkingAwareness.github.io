@@ -68,6 +68,10 @@ html {
   background: white;
   color: black;
 }
+.navbar active {
+  background: white;
+  color: black;
+}
 
 .center-text {
 	text-align: center;
