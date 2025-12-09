@@ -1,13 +1,13 @@
 ﻿body {
-	margin:0
+  padding-top: 0px;
   	background-image: url(images/background07.jpg);
+}
+*{
+padding: 0;
+margin: 0;
 }
 
 header{
-position:fixed;
-top:0;
-width:65%;
-background:#111;
 height: auto;
 }
 
@@ -30,13 +30,12 @@ html {
 }   
 .navbar {
   position: sticky;
-  top: 60px;
-  display:flex;
+  /*top: 0;*/
   text-align: center;
   width: 65%;
+  display: flex;
   background: #111;
   padding: 10px 0;
-  justify-content: center;
 }
 
 .navbar a {
@@ -84,7 +83,7 @@ font-size: 1.5rem;
 	min-height: 100vh;
 	margin: 0 auto;
 	margin-top: 0%;
-	padding: 160px;
+	padding: 120px;
 	box-shadow:0 0 10px rgba(25, 31, 52, 0.6);
 }
 
