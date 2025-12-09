@@ -33,7 +33,7 @@ html {
     font-family: Helvetica, sans-serif;
     font-weight: normal;
     padding: 30px;
-    background-image: url(images/background07.jpg);
+    background-image: url(images/background08.jpg);
 } 
 
 .content-wrapper {
@@ -130,4 +130,6 @@ p {
 	padding-top: 0;
 	vertical-align: top;
 }
+
+
 
