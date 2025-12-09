@@ -76,7 +76,8 @@ html {
 
 .container {
 	display: flex;
-	gap: 40px;
+	gap: 20px;
+	justify-content: center;
 }
 .column {
 	flex: 1;
