@@ -32,7 +32,7 @@ html {
     text-shadow: -0.03em -0.03em #000;
     font-family: Helvetica, sans-serif;
     font-weight: normal;
-    padding: 0;
+    padding: 50px;
     background-image: url(images/background07.jpg);
 } 
 
@@ -129,4 +129,12 @@ p {
 	margin-top: 0;
 	padding-top: 0;
 	vertical-align: top;
+}
+
+.yt-video {
+	text-align: center;
+}
+.video {
+	aspect-ratio 16:9;
+	width:100% !important;
 }
