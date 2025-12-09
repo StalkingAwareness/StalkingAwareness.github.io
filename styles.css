@@ -30,7 +30,7 @@ html {
     height: 16px;
 }   
 .navbar {
-  position: fixed;
+  position: static;
   top: 0;
   text-align: center;
   width: 65%;
