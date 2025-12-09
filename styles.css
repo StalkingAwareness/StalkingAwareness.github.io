@@ -58,6 +58,7 @@ html {
   padding: 0px;
   color: white;
   box-sizing: border-box;
+  height: 60px;
 }
 .navbar a {
   color: gray;
