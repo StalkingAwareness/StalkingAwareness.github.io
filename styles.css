@@ -23,7 +23,7 @@ html {
 	scroll-behavior: smooth;
 }
 .site-name {
-    width: 65%;
+    width: 80%;
     margin: 0 auto;
     display: flex;
     justify-content: center;
@@ -34,9 +34,20 @@ html {
     font-weight: normal;
     padding: 0;
     background-color:fuchsia;
-}   
+} 
+
+.content-wrapper {
+	background-color: #FAFAFA;
+	width: 80%;
+	min-height: calc(100vh - 120px);
+	padding: 60px;
+	box-shadow:0 0 10px rgba(25, 31, 52, 0.6);
+	margin: 0 auto;
+	box-sizing: border-box;
+}
+  
 .navbar {
-  width: 65%;
+  width: 80%;
   display: flex;
   justify-content: center;
   text-align: center;
@@ -46,13 +57,11 @@ html {
   color: white;
   box-sizing: border-box;
 }
-
 .navbar a {
   color: gray;
   text-decoration: none;
   padding: 16px 20px;
 }
-
 .navbar a:hover {
   background: white;
   color: black;
@@ -84,16 +93,6 @@ font-family: "Times New Roman", Times, serif;
 .container p, ul{
 margin-top: 2%;
 font-size: 1.5rem;
-}
-
-.content-wrapper {
-	background-color: #FAFAFA;
-	width: 65%;
-	min-height: calc(100vh - 120px);
-	padding: 60px;
-	box-shadow:0 0 10px rgba(25, 31, 52, 0.6);
-	margin: 0 auto;
-	box-sizing: border-box;
 }
 
 h1 {
