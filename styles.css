@@ -98,9 +98,15 @@ font-size: 3em;
 font-family: "Times New Roman", Times, serif;
 /*font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;*/
 }
-.container p, ul{
+/*.container p, ul{
 margin-top: 2%;
 font-size: 1.5rem;
+}*/
+
+.container p,
+.container u,
+.container li {
+	font-size: 1.5rem;
 }
 
 h1 {
@@ -128,8 +134,7 @@ justify-content: center;
 font-size: 1rem;
 }
 
-p, ul, li {
-	font-size: 16px;
+p {
 	margin-bottom: 25px;
 	font-family: "Times New Roman", Times, serif;
 }
